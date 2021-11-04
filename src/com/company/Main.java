@@ -7,8 +7,11 @@ public class Main {
 
         Car car=new Car();
        car.color="White";
+       car.name="honda";
+       car.model="Accord";
+        System.out.println(car.model);
 
-       
+
 
     }
 }
