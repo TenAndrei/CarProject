@@ -13,5 +13,11 @@ public class Main {
 
 
 
+       car.name="Toyota";
+       car.model="Camty";
+
+       
+
+
     }
 }
